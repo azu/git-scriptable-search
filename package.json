@@ -34,10 +34,13 @@
   "dependencies": {
     "babel": "^5.4.7",
     "bluebird": "^2.9.25",
+    "codemirror": "^5.3.0",
     "electron-template-menu": "^1.0.1",
     "material-flux": "^1.2.1",
     "nodegit": "^0.4.0",
+    "purecss": "^0.6.0",
     "react": "^0.13.3",
+    "react-code-mirror": "^3.0.4",
     "react-infinite": "^0.3.4",
     "string-to-regexp": "^0.1.0"
   }
