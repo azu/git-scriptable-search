@@ -3,7 +3,6 @@
 require("babel/register");
 var app = require('app');
 var BrowserWindow = require('browser-window');
-
 // keep reference to main window to prevent GC
 var mainWindow = null;
 
@@ -15,6 +14,7 @@ app.on('window-all-closed', function () {
 });
 
 app.on('ready', function () {
+    require("electron-template-menu")();
     // Create the browser window.
     mainWindow = new BrowserWindow({
         height: 650,
@@ -31,4 +31,5 @@ app.on('ready', function () {
         // Dereference the window object
         mainWindow = null;
     });
+
 });
