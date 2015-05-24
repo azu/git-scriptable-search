@@ -37,6 +37,7 @@
     "material-flux": "^1.2.1",
     "nodegit": "^0.4.0",
     "react": "^0.13.3",
-    "react-infinite": "^0.3.4"
+    "react-infinite": "^0.3.4",
+    "string-to-regexp": "^0.1.0"
   }
 }
