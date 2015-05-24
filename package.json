@@ -1,0 +1,42 @@
+{
+  "name": "git-scriptable-search",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azu/git-scriptable-search.git"
+  },
+  "author": "azu",
+  "email": "azuciao@gmail.com",
+  "homepage": "https://github.com/azu/git-scriptable-search",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azu/git-scriptable-search/issues"
+  },
+  "version": "1.0.0",
+  "engines": {
+    "electron": "0.25.3",
+    "atom-shell": "0.25.3"
+  },
+  "description": "git search app on electron.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git",
+    "search",
+    "incremental",
+    "node",
+    "js"
+  ],
+  "dependencies": {
+    "babel": "^5.4.7",
+    "bluebird": "^2.9.25",
+    "material-flux": "^1.2.1",
+    "nodegit": "^0.4.0",
+    "react": "^0.13.3",
+    "react-infinite": "^0.3.4"
+  }
+}
