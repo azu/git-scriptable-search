@@ -4,6 +4,9 @@ To search objective Git's commit.
 
 This app Work on [Electron](http://electron.atom.io/ "Electron").
 
+
+![screenshot](http://monosnap.com/image/YoPmZy88jlraDsvLiBNhhvZsrWqVr2.png)
+
 ## Feature
 
 - Search objective Git's commit.
