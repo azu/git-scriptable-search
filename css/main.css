@@ -1,3 +1,6 @@
+.SearchBar label, .SearchBar label {
+  margin: 0 1em; }
+
 .GitLogItem {
   border-bottom: 1px solid #DDD;
   border-left: 6px solid transparent; }
