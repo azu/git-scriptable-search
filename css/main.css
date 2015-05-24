@@ -1,0 +1,19 @@
+.GitLogItem {
+  border-bottom: 1px solid #DDD;
+  border-left: 6px solid transparent; }
+
+.GitLogList {
+  padding: 0.9em 1em;
+  border-bottom: 1px solid #DDD;
+  border-left: 6px solid transparent; }
+
+.SearchBar {
+  margin: .5em 0; }
+
+.SearchScriptBar .user-script-area {
+  font-size: 1.2em;
+  width: 50%;
+  height: 10em;
+  margin: 0 1em; }
+
+/*# sourceMappingURL=main.css.map */
