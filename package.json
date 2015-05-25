@@ -37,7 +37,7 @@
     "codemirror": "^5.3.0",
     "electron-template-menu": "^1.0.1",
     "material-flux": "^1.2.1",
-    "nodegit": "^0.4.0",
+    "nodegit": "https://github.com/nodegit/nodegit.git",
     "purecss": "^0.6.0",
     "react": "^0.13.3",
     "react-code-mirror": "^3.0.4",
